@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #007bff !important;
+}
+
+footer {
+    background-color: #343a40 !important;
+}
+
+h1, h2 {
+    color: #007bff;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
